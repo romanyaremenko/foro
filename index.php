@@ -1,1 +1,1 @@
-<?php include_once("src/index.handlebars"); ?>
+<?php include_once("src/partials/content.handlebars"); ?>
