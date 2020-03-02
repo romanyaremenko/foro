@@ -1,1 +1,1 @@
-<?php include_once("src/partials/content.handlebars"); ?>
+<?php include_once("dist/index.html"); ?>
